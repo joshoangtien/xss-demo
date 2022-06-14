@@ -29,7 +29,7 @@ if (isset($_GET['error'])) {
       <a href="index.php" class="logo">XSS Me</a>
       <a href="index.php" class="button">Home</a>
       <a href="index.php?page=About" class="button">About</a>
-      <a href="index.php#name=juno_okyo" class="button">DOM-based XSS</a>
+      <a href="index.php#name=josfairy" class="button">DOM-based XSS</a>
     </header>
     <div class="container">
       <div class="row">
